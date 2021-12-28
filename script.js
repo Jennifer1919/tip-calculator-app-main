@@ -1,7 +1,7 @@
 
 var billValue; //the bill's value
 var tipValue; //the tip percentage 
-var peopleNumberValue = 0; // the number of people paying
+var peopleNumberValue = 0 ; // the number of people paying
 
 
 const billInput = document.querySelector('#bill-section input'); //the input area for the bill value
