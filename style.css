@@ -193,6 +193,9 @@ body main .attribution a {
 }
 
 @media (min-width: 900px) {
+  body {
+    height: 100vh;
+  }
   body main form {
     display: -ms-grid;
     display: grid;
